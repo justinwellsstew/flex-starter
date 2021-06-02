@@ -136,6 +136,10 @@ body {
     height: 300px;
 }
 
+#additional-text {
+    background-color: white;
+}
+
 #content p span {
     font-family: 'Lora', sans-serif;
 }
